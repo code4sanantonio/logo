@@ -2,7 +2,7 @@ _Branding._
 
 --
 
-# Official Code for America Colors
+## Official Code for America Colors
 
 - Red
 (C13  M94  Y69  K4), (R204  G39  B62), (#cf1b41)
