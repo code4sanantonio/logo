@@ -18,13 +18,26 @@ _Branding._
 
 - [CfA Brigade Branding Guidelines](https://www.codeforamerica.org/blog/2015/07/29/code-for-america-brigade-branding-guidelines/)
 
+## Files
+
+- [Code-For-San-Antonio-Blue.png](https://github.com/code4sanantonio/logo/blob/master/Code-for-San-Antonio-Blue.png)
+    - #399fd3
+- [Code-For-San-Antonio-Grey.png](https://github.com/code4sanantonio/logo/blob/master/Code-for-San-Antonio-Grey.png)
+    - #6D6E71
+- [Code-For-San-Antonio.svg](https://github.com/code4sanantonio/logo/blob/master/Code-for-San-Antonio.svg)
+    - scalable vector graphics format
+- [Code-For-San-Antonio.ai](https://github.com/code4sanantonio/logo/blob/master/Code-for-San-Antonio.ai)
+    - Adobe Illustrator format
+
+
+
 ## Meta
 
 - [Code for SA](https://github.com/code4sanantonio)
 
 ## Contributing
 
-1. Fork it (<https://github.com/code4sanantonio/logo>)
+1. Fork it (<https://github.com/code4sanantonio/logo/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
